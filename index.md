@@ -20,7 +20,8 @@ First, we need to define what a healthy diet is.
 There are plenty of websites, videos and articles on healthy diets. Among the various sources, we decided to use two different definitions of the composition of a healthy diet:
 * Wikipedia <sup id="fnref:wiki_site"><a href="#fn:wiki_site" class="footnote">1</a></sup> , because it is a popular website on which many people look for information. Thus, people might take it as a reliable source towards healthy eating.
 
-* US Food and Drug Administration (FDA), an official source with scientific background. 
+* US Food and Drug Administration (FDA) <sup id="fnref:fda_site"><a href="#fn:fda_site" class="footnote">1</a></sup> , an official source with scientific background. 
+
 
 The FDA updated their recommendations in March 2020. We decided to take both the original and the updated one to distinguish if one leads to better results.
 
@@ -141,7 +142,11 @@ However, when plotting the classes as a function of scores, we can clearly see t
         <li id="fn:wiki_site">
               <p><a href="https://en.wikipedia.org/wiki/Healthy_diet">Healthy diet, <em>Wikipedia</em>, last consulted: 18.12.2020 </a>&nbsp;<a href="#fnref:wiki_site" class="reversefootnote">↩</a></p>
             </li>
-      
+
+        <li id="fn:fda_site">
+              <p><a href="https://www.fda.gov/media/135301/download">Daily Value and Percent Daily Value: Changes on the New Nutrition and Supplement Facts Labels , <em>FDA</em>, March 2020 </a>&nbsp;<a href="#fnref:fda_site" class="reversefootnote">↩</a></p>
+            </li>
+             
       
     </ol>
 </div>
