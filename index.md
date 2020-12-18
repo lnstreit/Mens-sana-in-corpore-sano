@@ -94,7 +94,7 @@ The regressions tried to capture a trend but the datapoints don't seems to have 
 
 # Can we classify happiness and unhappiness with food intake?
 
-Having a look at the distribution of the well-being, we thought of classifying areas into happy ($ well-being>=0 $) and unhappy ($ well-being < 0 $).
+Having a look at the distribution of the well-being, we thought of classifying areas into happy (well-being &#8925; 0 ) and unhappy (well-being &#60; 0 ).
 
 <div class="figure"
      style="text-align:center">
