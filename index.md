@@ -3,7 +3,7 @@
 <html>
       <p style="font-weight: bold;
                 font-style: italic;
-                font-size: 100px;
+                font-size: 50px;
                 text-align:center;"> A healthy mind in a healthy body</p>
 </html>
 
@@ -138,7 +138,7 @@ However, when plotting the classes as a function of scores, we can clearly see t
 <html>
       <p style="font-weight: bold;
                 font-style: italic;
-                font-size: 100px;
+                font-size: 50px;
                 text-align:center;"> Bon Appétit </p>
 </html>
 
