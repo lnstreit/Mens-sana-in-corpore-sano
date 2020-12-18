@@ -42,9 +42,9 @@ The healthy scores were then computed as follows :
 </div>
     
 
-# Spearman's rank correlation (Change title plz)
+# Is there a correlation between food and well-being ?
 
-First, let’s  compute the Spearman rank coefficient between the different nutrients as well as the Wikipedia score and the well-being of London residents. (barplot wiki)
+First, let’s  compute the Spearman rank coefficient between the different nutrients as well as the Wikipedia score and the well-being of London residents. 
 
 <div class="figure"
      style="text-align:center">
@@ -53,7 +53,7 @@ First, let’s  compute the Spearman rank coefficient between the different nutr
 </div>
 
 
-The nutrient with the highest correlation with well-being is the fibre.  
+The nutrient with the highest correlation with well-being is the fibre. It is surprising to see that both FDA scores are negatively correlated with the well-being. 
 
 Then, let’s plot the Spearman rank correlation between the different types of food and the well-being of London residents.
 
@@ -70,15 +70,28 @@ On the other hand, grains are negatively correlated.
 As vegetables and fruits are rich in fiber, it seems that both scores agree.
 However, whole grains are also a great source of fiber while grains are negatively correlated with well-being. This might be due to the fact that most Londoners eat more refined grains. 
 
+The Wikipedia score is positively correlated with the well-being. 
+
 All nutrients and foods used are statistically significant predictors of well-being according to the Spearman rank correlation because the t-test p-value against the null hypothesis that the coefficient is equal to 0 is lower than 0.05. 
 
 
 
-# Regressions (CHANGE TITLE)
-Are nutrients and well-being correlated ? What about different foods and well-being ? We tried to predict well-being by fitting an ordinary least squares regression to nutrients as well as foods, FDA and Wikipedia scores. Unfortunately, it seems like our healthy scores are not correlated with well-being.
+# Can we predict happiness with our healthy scores?
+Let's try to predict well-being by fitting an ordinary least squares regression to nutrients as well as foods, FDA and Wikipedia scores.
 
 
-# Classification well (0 ou 1), confusion matrix (CHANGE TITLE)
+<div class="figure"
+     style="text-align:center">
+  <img src=".\images\regression_scores.png"
+       width="500">
+</div>
+
+Unfortunately, it seems like our healthy scores cannot predict well-being.
+The regressions tried to capture a trend but the datapoints don't seems to have one. 
+
+
+
+# Can we classify happiness and unhappiness with food intake?
 
 Having a look at the distribution of the well-being, we thought of classifying areas into happy ($ well-being>=0 $) and unhappy ($ well-being < 0 $).
 
@@ -87,5 +100,29 @@ Having a look at the distribution of the well-being, we thought of classifying a
   <img src=".\images\distrib_well_being.png"
        width="500">
 </div>
+
+However, when plotting the classes as a function of scores, we can clearly see that these scores cannot predict happiness. 
+
+<div class="figure"
+     style="text-align:center">
+  <img src=".\images\well_wiki_score.png"
+       width="500">
+</div>
+
+<div class="figure"
+     style="text-align:center">
+  <img src=".\images\well_fda_score.png"
+       width="500">
+</div>
+
+
+
+
+
+
+
+
+
+
 
 
