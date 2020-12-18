@@ -21,21 +21,21 @@ Each definition gave us a pipeline to follow to eat healthy:
 
 The healthy scores were then computed as follows :
 
-<img src="images/FDA_score_def.jpg" width="400">
-<img src="images/wiki_score_def.jpg" width="400">
+<img src="./images/FDA_score_def.png" width="400">
+<img src="./images/wiki_score_def.png" width="400">
 
 
 ## Spearman's rank correlation (Change title plz)
 
 First, let’s  compute the Spearman rank coefficient between the different nutrients as well as the Wikipedia score and the well-being of London residents. (barplot wiki)
 
-<img src="images/spearman_fda_score.png" width="400">
+<img src="./images/spearman_fda_score.png" width="400">
 
 The nutrient with the highest correlation with well-being is the fibre.  
 
 Then, let’s plot the Spearman rank correlation between the different types of food and the well-being of London residents.
 
-<img src="images/spearman_wiki_score.png" width="400">
+<img src="./images/spearman_wiki_score.png" width="400">
 
 
 Here, the food with the highest positive correlation with well being are fruits and vegetables. It makes sense, as most health offices recommend eating plenty of fruits and vegetables.
@@ -57,7 +57,7 @@ Are nutrients and well-being correlated ? What about different foods and well-be
 Having a look at the distribution of the well-being, we thought of classifying areas into happy (well-being>=0) and unhappy (well-being < 0).
 
 
-<img src="images/distrib_well_being.png" width="400">
+<img src="./images/distrib_well_being.png" width="400">
 
 
 
