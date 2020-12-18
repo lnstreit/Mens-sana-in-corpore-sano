@@ -133,6 +133,18 @@ However, when plotting the classes as a function of scores, we can clearly see t
        width="500">
 </div>
 
+# What have we learned?
+
+Happiness is a complex notion ruled by a large variety of factors and food consumption is only one of them. Results of our research follow this intuition.
+
+Food consumption only explains one aspect of human well-being. Indeed, we would need more indicators such as wealth or crime rate. Moreover, the indicators we used in our analysis did not take into account all types of food (such as oils, alcohol,...). Some data could be added such as average vitamins per product and other nutrients in order to conduct more analyses.
+
+Some fun experiments could be realised to better understand the link between well-being and food consumption. For example, with the help of volunteers, some London residents could change their diet towards another area’s diet and see how their happiness changes.
+
+
+
+
+
 
 
 <div class="figure"
@@ -146,7 +158,7 @@ However, when plotting the classes as a function of scores, we can clearly see t
       <p style="font-weight: bold;
                 font-style: italic;
                 font-size: 50px;
-                text-align:center;"> Bon Appétit </p>
+                text-align:center;"> Bon Appétit! And don't forget to drink wine and eat brownies ! </p>
 </html>
 
 
