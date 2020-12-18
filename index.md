@@ -3,7 +3,7 @@
 <html>
       <p style="font-weight: bold;
                 font-style: italic;
-                font-size:50;
+                font-size:200;
                 text-align:center;"> A healthy mind in a healthy body</p>
 </html>
 
@@ -16,8 +16,9 @@ Let's find out!
 # Healthy diet definition
 
 First, we need to define what a healthy diet is.
-There are plenty of websites, videos and articles on healthy diets. Among the various sources, we decided to use two different definitions of the composition of a healthy diet:\
+There are plenty of websites, videos and articles on healthy diets. Among the various sources, we decided to use two different definitions of the composition of a healthy diet:
 * Wikipedia, because it is a popular website on which many people look for information. Thus, people might take it as a reliable source towards healthy eating.
+
 * US Food and Drug Administration (FDA), an official source with scientific background. 
 
 The FDA updated their recommendations in March 2020. We decided to take both the original and the updated one to distinguish if one leads to better results.
@@ -42,7 +43,7 @@ The healthy scores were then computed as follows :
 </div>
     
 
-# Is there a correlation between food and well-being ?
+# Is food and well-being correlated ?
 
 First, let’s  compute the Spearman rank coefficient between the different nutrients as well as the Wikipedia score and the well-being of London residents. 
 
