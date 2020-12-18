@@ -36,8 +36,6 @@ Both websites state recommendations for daily nutrients intake. The Wikipedia ar
 
 Each definition gave us a pipeline to follow to eat healthy.
 
-The healthy scores were then computed as follows :
-
 <div class="figure"
      style="text-align:center">
   <img src=".\images\FDA_score_def.png"
@@ -47,6 +45,14 @@ The healthy scores were then computed as follows :
 <div class="figure"
      style="text-align:center">
   <img src=".\images\wiki_score_def.png"
+       width="700">
+</div>
+
+The healthy scores were then computed as follows :
+
+<div class="figure"
+     style="text-align:center">
+  <img src=".\images\formule_score.png"
        width="700">
 </div>
     
@@ -108,13 +114,14 @@ We performed a regression to predict well-being using different types of food. T
 </div>
 
 
+
 <div class="withSidenote">
 
   <p>The result is surprising: apparently drinking water lowers your well-being whereas drinking wine makes you happier! </p>
 
   <figure class="sidenote display">
     <img src=".\images\meme_drake.png"
-         width='100'>
+         width='300'>
 </figure>
 </div>
 
