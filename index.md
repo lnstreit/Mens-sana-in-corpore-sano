@@ -3,7 +3,7 @@
 <html>
       <p style="font-weight: bold;
                 font-style: italic;
-                font-size: 200;
+                font-size: 100;
                 text-align:center;"> A healthy mind in a healthy body</p>
 </html>
 
@@ -18,7 +18,7 @@ Let's find out!
 
 First, we need to define what a healthy diet is.
 There are plenty of websites, videos and articles on healthy diets. Among the various sources, we decided to use two different definitions of the composition of a healthy diet:
-* Wikipedia, because it is a popular website on which many people look for information. Thus, people might take it as a reliable source towards healthy eating.
+* Wikipedia <sup id="fnref:wiki_site"><a href="#fn:winnie_pooh" class="footnote">1</a></sup> , because it is a popular website on which many people look for information. Thus, people might take it as a reliable source towards healthy eating.
 
 * US Food and Drug Administration (FDA), an official source with scientific background. 
 
@@ -102,12 +102,12 @@ Having a look at the distribution of the well-being, we thought of classifying a
        width="500">
 </div>
 
-We used a random forest classifier 
+We trained a random forest classifier. 
 
 <div class="figure"
      style="text-align:center">
   <img src=".\images\valid_curve.png"
-       width="500">
+       width="600">
 </div>
 
 However, when plotting the classes as a function of scores, we can clearly see that these scores cannot predict happiness. 
@@ -135,3 +135,13 @@ However, when plotting the classes as a function of scores, we can clearly see t
 
 
 
+# Reference
+<div class="footnotes">
+    <ol>
+        <li id="fn:wiki_site">
+              <p><a href="https://en.wikipedia.org/wiki/Healthy_diet">Healthy diet, <em>Wikipedia</em>, last consulted: 18.12.2020 </a>&nbsp;<a href="#fnref:wiki_site" class="reversefootnote">↩</a></p>
+            </li>
+      
+      
+    </ol>
+</div>
