@@ -103,7 +103,7 @@ Having a look at the distribution of the well-being, we thought of classifying a
        width="500">
 </div>
 
-We trained a random forest classifier. 
+We trained a random forest classifier. The figure below shows that the model performs morderately well on the test set and is highly overfitting.
 
 <div class="figure"
      style="text-align:center">
@@ -111,7 +111,8 @@ We trained a random forest classifier.
        width="600">
 </div>
 
-However, when plotting the classes as a function of scores, we can clearly see that these scores cannot predict happiness. 
+However, when plotting the classes as a function of scores, we can clearly see that these scores cannot predict happiness because there is no tendency that would allow to classify the datapoints correctly. 
+
 
 <div class="figure"
      style="text-align:center">
@@ -145,6 +146,10 @@ However, when plotting the classes as a function of scores, we can clearly see t
 
         <li id="fn:fda_site">
               <p><a href="https://www.fda.gov/media/135301/download">Daily Value and Percent Daily Value: Changes on the New Nutrition and Supplement Facts Labels , <em>FDA</em>, March 2020 </a>&nbsp;<a href="#fnref:fda_site" class="reversefootnote">↩</a></p>
+            </li>
+        
+        <li id="fn:data_site">
+              <p><a href="https://data.london.gov.uk/dataset/ward-profiles-and-atlas">Greater London Authority (GLA) , <em>Ward Profiles and Atlas</em>, last consulted: 18.12.2020 </a>&nbsp;<a href="#fnref:data_site" class="reversefootnote">↩</a></p>
             </li>
              
       
