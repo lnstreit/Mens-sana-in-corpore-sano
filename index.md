@@ -18,7 +18,7 @@ Let's find out!
 
 First, we need to define what a healthy diet is.
 There are plenty of websites, videos and articles on healthy diets. Among the various sources, we decided to use two different definitions of the composition of a healthy diet:
-* Wikipedia <sup id="fnref:wiki_site"><a href="#fn:winnie_pooh" class="footnote">1</a></sup> , because it is a popular website on which many people look for information. Thus, people might take it as a reliable source towards healthy eating.
+* Wikipedia <sup id="fnref:wiki_site"><a href="#fn:wiki_site" class="footnote">1</a></sup> , because it is a popular website on which many people look for information. Thus, people might take it as a reliable source towards healthy eating.
 
 * US Food and Drug Administration (FDA), an official source with scientific background. 
 
@@ -43,7 +43,7 @@ The healthy scores were then computed as follows :
 </div>
     
 
-# Is food and well-being correlated ?
+# Are food and well-being correlated ?
 
 First, let’s  compute the Spearman rank coefficient between the different nutrients as well as the Wikipedia score and the well-being of London residents. 
 
