@@ -215,11 +215,12 @@ Some fun experiments could be realised to better understand the link between wel
 <footer class="site-footer">
     
      <p class="copyright text-muted">
+         Improvise. ADApt. Overcome. <br>
       Emma Bouton-Bessac, Elise Jeandupeux, Lucas Streit
       &nbsp;•&nbsp;
       2020
         
-      </footer>
+
 
 
 
