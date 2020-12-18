@@ -128,8 +128,19 @@ However, when plotting the classes as a function of scores, we can clearly see t
 
 
 
+<div class="figure"
+     style="text-align:center">
+  <img src=".\images\wine.brownies.jpg"
+       width="700">
+</div>
 
-
+ 
+<html>
+      <p style="font-weight: bold;
+                font-style: italic;
+                font-size: 100;
+                text-align:center;"> Bon Appétit </p>
+</html>
 
 
 
