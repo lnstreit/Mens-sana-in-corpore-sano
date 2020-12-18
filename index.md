@@ -2,7 +2,7 @@
  
 <html>
       <p style="font-weight: bold;
-                font-weight: italic;
+                font-style: italic;
                 font-size:50;
                 text-align:center;"> A healthy mind in a healthy body</p>
 </html>
@@ -100,6 +100,8 @@ Having a look at the distribution of the well-being, we thought of classifying a
   <img src=".\images\distrib_well_being.png"
        width="500">
 </div>
+
+We used a random forest classifier 
 
 However, when plotting the classes as a function of scores, we can clearly see that these scores cannot predict happiness. 
 
