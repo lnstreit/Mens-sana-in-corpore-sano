@@ -1,5 +1,11 @@
 
-"A healthy mind in a healthy body.”
+ 
+<html>
+      <p style="font-weight: bold;
+                font-size:30"> A healthy mind in a healthy body</p>
+</html>
+
+
 Health departments recommend eating “well” for good health and well-being. However, we all know that “comfort food” (burgers, cookies, …), although being unhealthy, makes one feel good. Therefore, the following questions arise: Is eating healthy really essential to well-being? What is the influence of a food or nutrient on one’s mental health? Is there a specific nutrient that makes one happy? 
 
 Let's find out!
