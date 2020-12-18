@@ -21,9 +21,9 @@ Each definition gave us a pipeline to follow to eat healthy:
 
 The healthy scores were then computed as follows :
 
-<div style="text-align:center"><img src=".\images\FDA_score_def.png" width="500">\
+<div style="text-align:center"><img src=".\images\FDA_score_def.png" width="500"> <br>
     
-<img src="images\wiki_score_def.png" width="500">\
+<img src="images\wiki_score_def.png" width="500"> <br>
     
 
 
@@ -31,13 +31,13 @@ The healthy scores were then computed as follows :
 
 First, let’s  compute the Spearman rank coefficient between the different nutrients as well as the Wikipedia score and the well-being of London residents. (barplot wiki)
 
-<div style="text-align:center"><img src="./images/spearman_fda_score.png" width="400">\
+<div style="text-align:center"><img src="./images/spearman_fda_score.png" width="400"> <br>
 
 The nutrient with the highest correlation with well-being is the fibre.  
 
 Then, let’s plot the Spearman rank correlation between the different types of food and the well-being of London residents.
 
-<img src="./images/spearman_wiki_score.png" width="400">\
+<img src="./images/spearman_wiki_score.png" width="400"> <br>
 
 
 Here, the food with the highest positive correlation with well being are fruits and vegetables. It makes sense, as most health offices recommend eating plenty of fruits and vegetables.
