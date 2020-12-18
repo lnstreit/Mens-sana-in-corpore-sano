@@ -56,6 +56,7 @@ The healthy scores were then computed as follows :
        width="700">
 </div>
     
+Where healthy portion is given by Wikipedia or the FDA and Fnutrient is the fraction of nutrient of the average product per area.
     
 The higher the score, the healthier the area eats.
 
@@ -117,28 +118,18 @@ We performed a regression to predict well-being using different types of food. T
 
 
 
-<div class="withSidenote">
+The result is surprising: apparently drinking water lowers your well-being whereas drinking wine makes you happier! 
 
-  <p>The result is surprising: apparently drinking water lowers your well-being whereas drinking wine makes you happier! </p>
-
-  <figure class="sidenote display">
-    <img src=".\images\meme_drake.png"
-         width='300'>
-</figure>
+<div>
+    <aside>
+        <figure class="sidenote display">
+            <img src=".\images\meme_drake.png"
+                 width='300'>
+        </figure>
+    </aside>
 </div>
 
 
-<div class="withSidenote">
-
-  <p>We investigate here two widely agreed upon causes of CCD: pests and insecticides.</p>
-
-  <p>One of those pests – the (charmingly named) <strong>Varroa destructor</strong> – is a parasite smaller than the bee that attaches itself on the bee’s body. It spreads throughout the colonies and leads to infections, killing the bees. Hence, we also isolate the influence of the Varroa infestation on the death rate of colonies.</p>
-
-  <figure class="sidenote display">
-    <img src=".\images\meme_drake.png">
-    <figcaption><em>Figure 1.</em> The Varroa destructor in action.</figcaption>
-</figure>
-</div>
 
 
 
