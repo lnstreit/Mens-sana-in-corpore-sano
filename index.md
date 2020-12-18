@@ -23,7 +23,7 @@ The healthy scores were then computed as follows :
 
 <div style="text-align:center"><img src=".\images\FDA_score_def.png" width="500"> <br>
     
-<img src="images\wiki_score_def.png" width="500"> <br>
+<div style="text-align:center"><img src="images\wiki_score_def.png" width="500"> <br>
     
 
 
@@ -37,7 +37,7 @@ The nutrient with the highest correlation with well-being is the fibre.
 
 Then, let’s plot the Spearman rank correlation between the different types of food and the well-being of London residents.
 
-<img src="./images/spearman_wiki_score.png" width="400"> <br>
+<div style="text-align:center"><img src="./images/spearman_wiki_score.png" width="400"> <br>
 
 
 Here, the food with the highest positive correlation with well being are fruits and vegetables. It makes sense, as most health offices recommend eating plenty of fruits and vegetables.
@@ -56,10 +56,10 @@ Are nutrients and well-being correlated ? What about different foods and well-be
 
 ## classification well (0 ou 1), confusion matrix (CHANGE TITLE)
 
-Having a look at the distribution of the well-being, we thought of classifying areas into happy (well-being>=0) and unhappy (well-being < 0).
+Having a look at the distribution of the well-being, we thought of classifying areas into happy ($ well-being>=0 $) and unhappy ($ well-being < 0 $).
 
 
-<img src="./images/distrib_well_being.png" width="400">
+<div style="text-align:center"><img src="./images/distrib_well_being.png" width="400">
 
 
 
