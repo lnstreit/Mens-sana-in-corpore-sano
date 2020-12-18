@@ -9,8 +9,9 @@ Let's find out!
 
 First, we need to define what a healthy diet is.
 There are plenty of websites, videos and articles on healthy diets. Among the various sources, we decided to use two different definitions of the composition of a healthy diet:\
-Wikipedia, because it is a popular website on which many people look for information. Thus, people might take it as a reliable source towards healthy eating.
-US Food and Drug Administration (FDA), an official source with scientific background.
+* Wikipedia, because it is a popular website on which many people look for information. Thus, people might take it as a reliable source towards healthy eating.
+* US Food and Drug Administration (FDA), an official source with scientific background. 
+
 The FDA updated their recommendations in March 2020. We decided to take both the original and the updated one to distinguish if one leads to better results.
 
 Both websites state recommendations for daily nutrients intake. The Wikipedia article focuses on fruits, vegetables, grains, dairy, red meat, poultry, eggs and fish while the FDA one focuses on fat, fibre, carb, protein and saturated fats.
