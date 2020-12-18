@@ -211,7 +211,7 @@ Some fun experiments could be realised to better understand the link between wel
             </li>
         
         <li id="fn: image_brownies">
-              <p><a href="https://www.menageatroiswines.com/love-chocolate-fudge-and-wine-brownies/"> M,nage à trois wine <em>(Last image)</em>  </a>&nbsp;<a href="#fnref:image_brownies" class="reversefootnote">↩</a></p>
+              <p><a href="https://www.menageatroiswines.com/love-chocolate-fudge-and-wine-brownies/"> Ménage à trois wine <em>(Last image)</em>  </a>&nbsp;<a href="#fnref:image_brownies" class="reversefootnote">↩</a></p>
             </li>
         
         
