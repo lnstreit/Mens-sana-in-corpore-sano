@@ -111,11 +111,11 @@ We performed a regression to predict well-being using different types of food. T
 <div class="withSidenote">
 
 
-    The result is surprising: apparently drinking water lowers your well-being wheras drinking wine makes you happier!
+    The result is surprising: apparently drinking water lowers your well-being whereas drinking wine makes you happier!
     
     
 <figure class="sidenote display">
-    <img src="img/meme_correlation.png">
+    <img src=".\images\meme_correlation.png">
 </figure>
     
 </div>
