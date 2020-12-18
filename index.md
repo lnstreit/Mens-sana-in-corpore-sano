@@ -1,4 +1,3 @@
-# Mens sana in corpore sano
 
 "A healthy mind in a healthy body.”
 Health departments recommend eating “well” for good health and well-being. However, we all know that “comfort food” (burgers, cookies, …), although being unhealthy, makes one feel good. Therefore, the following questions arise: Is eating healthy really essential to well-being? What is the influence of a food or nutrient on one’s mental health? Is there a specific nutrient that makes one happy? 
@@ -6,7 +5,7 @@ Health departments recommend eating “well” for good health and well-being. H
 Let's find out!
 
 
-## Healthy diet definition
+# Healthy diet definition
 
 First, we need to define what a healthy diet is.
 There are plenty of websites, videos and articles on healthy diets. Among the various sources, we decided to use two different definitions of the composition of a healthy diet:\
@@ -21,23 +20,39 @@ Each definition gave us a pipeline to follow to eat healthy:
 
 The healthy scores were then computed as follows :
 
-<div style="text-align:center"><img src=".\images\FDA_score_def.png" width="500"><div style="text-align:left"> <br>
-    
-<div style="text-align:center"><img src="images\wiki_score_def.png" width="500"><div style="text-align:left"> <br>
+<div class="figure"
+     style="text-align:center">>
+  <img src=".\images\FDA_score_def.png"
+       width="500">
+</div>
+
+<div class="figure"
+     style="text-align:center">>
+  <img src=".\images\wiki_score_def.png"
+       width="700">
+</div>
     
 
-
-## Spearman's rank correlation (Change title plz)
+# Spearman's rank correlation (Change title plz)
 
 First, let’s  compute the Spearman rank coefficient between the different nutrients as well as the Wikipedia score and the well-being of London residents. (barplot wiki)
 
-<div style="text-align:center"><img src="./images/spearman_fda_score.png" width="400"><div style="text-align:left"> <br>
+<div class="figure"
+     style="text-align:center">>
+  <img src=".\images\spearman_fda_score.png"
+       width="500">
+</div>
+
 
 The nutrient with the highest correlation with well-being is the fibre.  
 
 Then, let’s plot the Spearman rank correlation between the different types of food and the well-being of London residents.
 
-<div style="text-align:center"><img src="./images/spearman_wiki_score.png" width="400"><div style="text-align:left"> <br>
+<div class="figure"
+     style="text-align:center">>
+  <img src=".\images\spearman_wiki_score.png"
+       width="500">
+</div>
 
 
 Here, the food with the highest positive correlation with well being are fruits and vegetables. It makes sense, as most health offices recommend eating plenty of fruits and vegetables.
@@ -50,17 +65,18 @@ All nutrients and foods used are statistically significant predictors of well-be
 
 
 
-## Regressions (CHANGE TITLE)
+# Regressions (CHANGE TITLE)
 Are nutrients and well-being correlated ? What about different foods and well-being ? We tried to predict well-being by fitting an ordinary least squares regression to nutrients as well as foods, FDA and Wikipedia scores. Unfortunately, it seems like our healthy scores are not correlated with well-being.
 
 
-## classification well (0 ou 1), confusion matrix (CHANGE TITLE)
+# Classification well (0 ou 1), confusion matrix (CHANGE TITLE)
 
 Having a look at the distribution of the well-being, we thought of classifying areas into happy ($ well-being>=0 $) and unhappy ($ well-being < 0 $).
 
-
-<div style="text-align:center"><img src="./images/distrib_well_being.png" width="400"><div style="text-align:left"> <br>
-
-
+<div class="figure"
+     style="text-align:center">>
+  <img src=".\images\distrib_well_being.png"
+       width="500">
+</div>
 
 
