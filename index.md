@@ -174,6 +174,7 @@ Some fun experiments could be realised to better understand the link between wel
      style="text-align:center">
   <img src=".\images\wine_brownies.png"
        width="700">
+    <sup id="fnref:image_brownies"><a href="#fn:image_brownies" class="footnote"></a></sup>
 </div>
 
  
@@ -206,8 +207,15 @@ Some fun experiments could be realised to better understand the link between wel
             </li>
         
         <li id="fn: image_health">
-              <p><a href="https://madklubben.dk/en/restaurants/food-club-copenhagen/">Greater London Authority (GLA) , <em>Ward Profiles and Atlas</em>, last consulted: 18.12.2020 </a>&nbsp;<a href="#fnref:image_health" class="reversefootnote">↩</a></p>
+              <p><a href="https://madklubben.dk/en/restaurants/food-club-copenhagen/">Food Club Copenhagen <em>(First image)</em> </a>&nbsp;<a href="#fnref:image_health" class="reversefootnote">↩</a></p>
             </li>
+        
+        <li id="fn: image_brownies">
+              <p><a href="https://www.menageatroiswines.com/love-chocolate-fudge-and-wine-brownies/"> M,nage à trois wine <em>(Last image)</em>  </a>&nbsp;<a href="#fnref:image_brownies" class="reversefootnote">↩</a></p>
+            </li>
+        
+        
+        
       
     </ol>
 </div>
