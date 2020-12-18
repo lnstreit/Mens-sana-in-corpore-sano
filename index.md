@@ -17,6 +17,8 @@ Let's find out!
      style="text-align:center">
   <img src=".\images\healthy_food.png"
        width="800">
+    
+    <sup id="fnref:image_health"><a href="#fn:image_health" class="footnote"></a></sup>
 </div>
 
 
@@ -202,7 +204,10 @@ Some fun experiments could be realised to better understand the link between wel
         <li id="fn:data_site">
               <p><a href="https://data.london.gov.uk/dataset/ward-profiles-and-atlas">Greater London Authority (GLA) , <em>Ward Profiles and Atlas</em>, last consulted: 18.12.2020 </a>&nbsp;<a href="#fnref:data_site" class="reversefootnote">↩</a></p>
             </li>
-             
+        
+        <li id="fn: image_health">
+              <p><a href="https://madklubben.dk/en/restaurants/food-club-copenhagen/">Greater London Authority (GLA) , <em>Ward Profiles and Atlas</em>, last consulted: 18.12.2020 </a>&nbsp;<a href="#fnref:image_health" class="reversefootnote">↩</a></p>
+            </li>
       
     </ol>
 </div>
