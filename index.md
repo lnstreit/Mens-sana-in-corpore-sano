@@ -130,7 +130,7 @@ However, when plotting the classes as a function of scores, we can clearly see t
 
 <div class="figure"
      style="text-align:center">
-  <img src=".\images\wine.brownies.jpg"
+  <img src=".\images\wine_brownies.jpg"
        width="700">
 </div>
 
