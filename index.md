@@ -21,8 +21,8 @@ Each definition gave us a pipeline to follow to eat healthy:
 
 The healthy scores were then computed as follows :
 
-<img src="./images/FDA_score_def.png" width="400">
-<img src="./images/wiki_score_def.png" width="400">
+<img src=".\images\FDA_score_def.png" width="400">
+<img src="images\wiki_score_def.png" width="400">
 
 
 ## Spearman's rank correlation (Change title plz)
