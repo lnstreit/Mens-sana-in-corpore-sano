@@ -85,6 +85,14 @@ All nutrients and foods used are statistically significant predictors of well-be
 
 
 
+
+<figure class="sidenote display">
+    <img src="img/meme_correlation">
+</figure>
+
+
+
+
 # Can we predict happiness with our healthy scores?
 Let's try to predict well-being by fitting an ordinary least squares regression to nutrients as well as foods, FDA and Wikipedia scores.
 
