@@ -30,7 +30,7 @@ There are plenty of websites, videos and articles on healthy diets. Among the va
 * US Food and Drug Administration (FDA) <sup id="fnref:fda_site"><a href="#fn:fda_site" class="footnote">2</a></sup> , an official source with scientific background. 
 
 
-The FDA updated their recommendations in March 2020. We decided to take both the original and the updated one to distinguish if one leads to better results.
+The FDA updated their recommendations in March 2020. We decided to take both the original and the updated one to distinguish if one yields better results.
 
 Both websites state recommendations for daily nutrients intake. The Wikipedia article focuses on fruits, vegetables, grains, dairy, red meat, poultry, eggs and fish while the FDA one focuses on fat, fibre, carb, protein and saturated fats.
 
@@ -71,7 +71,7 @@ First, let’s  compute the Spearman rank coefficient between the different nutr
 </div>
 
 
-The nutrient with the highest correlation with well-being is the fibre. It is surprising to see that both FDA scores are negatively correlated with the well-being. 
+The nutrient with the highest correlation coefficient is the fibre. It is surprising to see that both FDA scores are negatively correlated with the well-being. 
 
 Then, let’s plot the Spearman rank correlation between the different types of food and the well-being of London residents.
 
@@ -134,9 +134,9 @@ The result is surprising: apparently drinking water lowers your well-being where
 
 
 
-# Can we classify happiness and unhappiness with food intake?
+# Can we classify happiness and unhappiness according to food intake?
 
-Having a look at the distribution of the well-being, we thought of classifying areas into happy (well-being &#8805; 0 ) and unhappy (well-being &#60; 0 ).
+Having a look at the distribution of the well-being, we thought of classifying areas into happy (well-being &#8805; 0 ) and unhappy (well-being &#60; 0 ) region.
 
 <div class="figure"
      style="text-align:center">
@@ -144,7 +144,7 @@ Having a look at the distribution of the well-being, we thought of classifying a
        width="500">
 </div>
 
-We trained a random forest classifier. The figure below shows that the model performs morderately well on the test set and is highly overfitting.
+We trained a random forest classifier. The figure below shows that the model performs moderately well on the test set and is highly overfitting.
 
 <div class="figure"
      style="text-align:center">
@@ -171,7 +171,7 @@ However, when plotting the classes as a function of scores, we can clearly see t
 
 Happiness is a complex notion ruled by a large variety of factors and food consumption is only one of them. Results of our research follow this intuition.
 
-Food consumption only explains one aspect of human well-being. Indeed, we would need more indicators such as wealth or crime rate. Moreover, the indicators we used in our analysis did not take into account all types of food (such as oils, alcohol,...). Some data could be added such as average vitamins per product and other nutrients in order to conduct more analyses.
+Food consumption only explains one aspect of human well-being. Indeed, we would need more indicators such as wealth or crime rate. Moreover, the indicators we used in our analysis did not take into account all types of food (such as oils, alcohol,...). Some data could be added such as average vitamins per product and other nutrients in order to conduct more analyses. Moreover our computation of scores might not be optimal. Indeed, with the MSE formula, not eating a certain nutrient is equally bad as eating the double of the recommended portion. This might not reflect real life mechanisms. 
 
 Some fun experiments could be realised to better understand the link between well-being and food consumption. For example, with the help of volunteers, some London residents could change their diet towards another area’s diet and see how their happiness changes.
 
@@ -219,3 +219,16 @@ Some fun experiments could be realised to better understand the link between wel
       
     </ol>
 </div>
+
+
+
+
+
+
+<footer>
+    Emma Bouton--Bessac,  Elise Jeandupeux,  Lucas Streit
+</footer>
+
+
+
+
