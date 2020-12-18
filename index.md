@@ -84,13 +84,18 @@ The Wikipedia score is positively correlated with the well-being.
 All nutrients and foods used are statistically significant predictors of well-being according to the Spearman rank correlation because the t-test p-value against the null hypothesis that the coefficient is equal to 0 is lower than 0.05. 
 
 
+<div class="withSidenote">
 
 
+    HELLO THERE!!
+    meme test 
+    
+    
 <figure class="sidenote display">
     <img src="img/meme_correlation">
 </figure>
 
-
+<div\>
 
 
 # Can we predict happiness with our healthy scores?
