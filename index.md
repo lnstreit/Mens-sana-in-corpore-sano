@@ -99,7 +99,7 @@ Unfortunately, it seems like our healthy scores cannot predict well-being.
 The regressions tried to capture a trend but the datapoints don't seems to have one. 
 
 
-We performed a regression to predict well-being using different types of food. The coefficient value are shown on the figure below.
+We performed a regression to predict well-being using different types of food. The statistically significant coefficient value are shown on the figure below.
 
 <div class="figure"
      style="text-align:center">
@@ -111,11 +111,11 @@ We performed a regression to predict well-being using different types of food. T
 <div class="withSidenote">
 
 
-    The coefficient  
+    The result is surprising: apparently drinking water lowers your well-being wheras drinking wine makes you happier!
     
     
 <figure class="sidenote display">
-    <img src="img/meme_correlation">
+    <img src="img/meme_correlation.png">
 </figure>
     
 </div>
