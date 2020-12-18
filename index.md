@@ -120,13 +120,15 @@ We performed a regression to predict well-being using different types of food. T
 
 The result is surprising: apparently drinking water lowers your well-being whereas drinking wine makes you happier! 
 
-<div>
-    <aside>
-        <figure class="sidenote display">
-            <img src=".\images\meme_drake.png"
-                 width='300'>
-        </figure>
-    </aside>
+<div class="row">
+  <div class="column">
+    <img src=".\images\meme_drake.png"
+         width="100">
+  </div>
+  <div class="column">
+    <img src=".\images\meme_correlation.png" 
+         width = "100">
+  </div>
 </div>
 
 
