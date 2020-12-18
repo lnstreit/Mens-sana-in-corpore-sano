@@ -13,6 +13,13 @@ Therefore, the following questions arise: Is eating healthy really essential to 
 
 Let's find out!
 
+<div class="figure"
+     style="text-align:center">
+  <img src=".\images\healthy_food.png"
+       width="800">
+</div>
+
+
 
 # Healthy diet definition
 
