@@ -56,6 +56,8 @@ The healthy scores were then computed as follows :
        width="700">
 </div>
     
+    
+The higher the score, the healthier the area eats.
 
 # Are food and well-being correlated ?
 
@@ -122,6 +124,19 @@ We performed a regression to predict well-being using different types of food. T
   <figure class="sidenote display">
     <img src=".\images\meme_drake.png"
          width='300'>
+</figure>
+</div>
+
+
+<div class="withSidenote">
+
+  <p>We investigate here two widely agreed upon causes of CCD: pests and insecticides.</p>
+
+  <p>One of those pests – the (charmingly named) <strong>Varroa destructor</strong> – is a parasite smaller than the bee that attaches itself on the bee’s body. It spreads throughout the colonies and leads to infections, killing the bees. Hence, we also isolate the influence of the Varroa infestation on the death rate of colonies.</p>
+
+  <figure class="sidenote display">
+    <img src=".\images\meme_drake.png">
+    <figcaption><em>Figure 1.</em> The Varroa destructor in action.</figcaption>
 </figure>
 </div>
 
