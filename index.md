@@ -8,7 +8,8 @@
 </html>
 
 
-Health departments recommend a healthy diet for good health and well-being. However, we all know that “comfort food” (burgers, cookies, …), although being unhealthy, makes one feel good. Therefore, the following questions arise: Is eating healthy really essential to well-being? What is the influence of a food or nutrient on one’s mental health? Is there a specific nutrient that makes one happy? 
+Health departments recommend a healthy diet for good health and well-being. However, we all know that “comfort food” (burgers, cookies, …), although being unhealthy, makes one feel good.
+Therefore, the following questions arise: Is eating healthy really essential to well-being? What is the influence of a food or nutrient on one’s mental health? Is there a specific nutrient that makes one happy? 
 
 Let's find out!
 
@@ -25,8 +26,7 @@ The FDA updated their recommendations in March 2020. We decided to take both the
 
 Both websites state recommendations for daily nutrients intake. The Wikipedia article focuses on fruits, vegetables, grains, dairy, red meat, poultry, eggs and fish while the FDA one focuses on fat, fibre, carb, protein and saturated fats.
 
-Each definition gave us a pipeline to follow to eat healthy:
-
+Each definition gave us a pipeline to follow to eat healthy.
 
 The healthy scores were then computed as follows :
 
