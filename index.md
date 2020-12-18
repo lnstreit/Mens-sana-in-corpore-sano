@@ -21,9 +21,9 @@ Each definition gave us a pipeline to follow to eat healthy:
 
 The healthy scores were then computed as follows :
 
-<div style="text-align:center"><img src=".\images\FDA_score_def.png" width="500"> <br>
+<div style="text-align:center"><img src=".\images\FDA_score_def.png" width="500"><div style="text-align:left"> <br>
     
-<div style="text-align:center"><img src="images\wiki_score_def.png" width="500"> <br>
+<div style="text-align:center"><img src="images\wiki_score_def.png" width="500"><div style="text-align:left"> <br>
     
 
 
@@ -31,13 +31,13 @@ The healthy scores were then computed as follows :
 
 First, let’s  compute the Spearman rank coefficient between the different nutrients as well as the Wikipedia score and the well-being of London residents. (barplot wiki)
 
-<div style="text-align:center"><img src="./images/spearman_fda_score.png" width="400"> <br>
+<div style="text-align:center"><img src="./images/spearman_fda_score.png" width="400"><div style="text-align:left"> <br>
 
 The nutrient with the highest correlation with well-being is the fibre.  
 
 Then, let’s plot the Spearman rank correlation between the different types of food and the well-being of London residents.
 
-<div style="text-align:center"><img src="./images/spearman_wiki_score.png" width="400"> <br>
+<div style="text-align:center"><img src="./images/spearman_wiki_score.png" width="400"><div style="text-align:left"> <br>
 
 
 Here, the food with the highest positive correlation with well being are fruits and vegetables. It makes sense, as most health offices recommend eating plenty of fruits and vegetables.
@@ -59,61 +59,7 @@ Are nutrients and well-being correlated ? What about different foods and well-be
 Having a look at the distribution of the well-being, we thought of classifying areas into happy ($ well-being>=0 $) and unhappy ($ well-being < 0 $).
 
 
-<div style="text-align:center"><img src="./images/distrib_well_being.png" width="400">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/lnstreit/analysis_happiness_food/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lnstreit/analysis_happiness_food/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<div style="text-align:center"><img src="./images/distrib_well_being.png" width="400"><div style="text-align:left"> <br>
 
 
 
