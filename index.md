@@ -92,7 +92,7 @@ Let's try to predict well-being by fitting an ordinary least squares regression 
 <div class="figure"
      style="text-align:center">
   <img src=".\images\regression_scores.png"
-       width="500">
+       width="800">
 </div>
 
 Unfortunately, it seems like our healthy scores cannot predict well-being.
@@ -137,7 +137,7 @@ We trained a random forest classifier. The figure below shows that the model per
 <div class="figure"
      style="text-align:center">
   <img src=".\images\valid_curve.png"
-       width="600">
+       width="800">
 </div>
 
 However, when plotting the classes as a function of scores, we can clearly see that these scores cannot predict happiness because there is no tendency that would allow to classify the datapoints correctly. 
